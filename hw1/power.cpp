@@ -1,6 +1,6 @@
 // File: power.cpp
-// Created by: Naeem Shareef
-// Modified by: Nicholas Shepard
+// Created by:
+// Modified by: ShepDog
 // Modified on: 5/14/18
 
 // Grade: 100%
@@ -16,15 +16,16 @@ using namespace std;
 
 int main()
 {
-  double x;
-  double y;
-  /* Read in x */
+  double x, y;
+
+  // Reads in variable x.
   cout << "Enter x (float): ";
   cin >> x;
 
-  /* Compute sqrt(x) */
+  // Compute the sqrt of the input variable
   y = sqrt(x);
 
+  // Output
   cout << "sqrt(x) = " << y << endl;
   cout << "x^2 = " << (pow(x, 2.0)) << endl;
   cout << "x^3 = " << (pow(x, 3.0)) << endl;

@@ -1,9 +1,9 @@
 // File: triArea.cpp
-// Created by: Naeem Shareef
-// Modified by: Nicholas Shepard
+// Created by:
+// Modified by: ShepDog
 // Modified on: 5/14/18
 
-// Grading: 100%
+// Grade: 100%
 
 /* 
    A program to compute and output the area of three triangles:
